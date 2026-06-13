@@ -1,2 +1,1 @@
-# improved-umbrella
-anonymous-cafe
+# improved-umbrel
